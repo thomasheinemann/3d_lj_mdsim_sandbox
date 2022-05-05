@@ -16,5 +16,6 @@ Start:
 - For Unix start_in_virtualenv_for_unix.sh
 - For Win: start_in_virtualenv_for_win.bat
 
+Note: For installing or starting the program, consider to insert the right python path if necessary
 
 
