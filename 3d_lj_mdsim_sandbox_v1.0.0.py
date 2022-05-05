@@ -1,5 +1,5 @@
 # MD simulation in the NVEkin-ensemble
-
+# Author: Thomas Heinemann
 #-------------non-Graphics-libraries-------------------------------------------
 import numpy as np
 import pandas as pd
